@@ -1,9 +1,5 @@
 # HGMN: Hierarchical Graph Matching Networks for Deep Graph Similarity Learning
 
-This is the repo for **Hierarchical Graph Matching Networks for Deep Graph Similarity Learning (under review)**.
-
-In order to compute the graph similarity between any pair of graph-structured objects, HGMN can be used to jointly learn graph representations and a graph matching metric function for computing graph similarity in an end-to-end fashion. 
-In particular, HGMN consists of a multi-perspective node-graph matching network for effectively learning cross-level interactions between parts of a graph and a whole graph, and a Siamese graph neural network for learning global-level interactions between two graphs. 
 
 # Run the codes
 
