@@ -1,6 +1,3 @@
-# HGMN: Hierarchical Graph Matching Networks for Deep Graph Similarity Learning
-
-
 # Run the codes
 
 ## 1. Requirements
